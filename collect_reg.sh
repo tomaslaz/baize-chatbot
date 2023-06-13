@@ -1,1 +1,1 @@
-python collect_reg.py "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" 100
+python collect_reg.py "" 100
