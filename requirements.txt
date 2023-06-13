@@ -11,3 +11,5 @@ markdown2
 pygments
 mdtex2html
 llama_index
+openai
+html2text
